@@ -17,10 +17,10 @@ Whether intentional or not, that passion project could make you extra money and 
 3. When starting a new business some people purchase expensive **assets** at the start linked to expected full volume operation.  Do not do this.  Purchase expensive assets gradually, ramp up only once there is revenue being generated to support those assets.
 4. Maintain a positive mindset but be **realistic** - there will likely be some setbacks - be **persistent**, but also know when it is time to pack it in.
 5. If you are unsure what business to start, consider finding something where the following intersect:
-5.1 Something you **enjoy** doing.
-5.2 Something you are **good at** - particularly if you are better than the average person.
-5.3 Something that is **profitable** for you.
-5.4 Something that adds **VALUE** for others (often people have ideas for businesses where the output is not highly and consistently valued).
+  5.1 Something you **enjoy** doing.
+  5.2 Something you are **good at** - particularly if you are better than the average person.
+  5.3 Something that is **profitable** for you.
+  5.4 Something that adds **VALUE** for others (often people have ideas for businesses where the output is not highly and consistently valued).
 6. **Don't quit** your day job if you do not have to - this way you have a constant revenue source to see you through as the business builds.
 7. **Watch your finances** like a Hawk - do not wait until the end of a month or year to assess - this is your responsibility at high level, not the responsibility of an Accountant.  If you bank balance is moving down or further into overdraft you need to take action to change the trajectory.
 
